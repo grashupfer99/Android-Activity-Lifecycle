@@ -1,1 +1,1 @@
-# Android Activity Lifecycles
+# Android Activity Lifecycle
